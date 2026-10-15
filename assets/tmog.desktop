@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=0
+Name=Task Manager OG
+Comment=TMOG
+Exec=~/tmog/run.sh
+StartupNotify=false
+Keywords=tmog task manager
+Icon=~/tmog/logo.png
+Terminal=false
